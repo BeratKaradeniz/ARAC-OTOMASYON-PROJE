@@ -6,6 +6,6 @@ Eğer araçla ilgili bilgi değişikliği yapıcaksanız alınan araçlar menüs
 Yönetici girişi depo kısmından istediği tüm araçları görebilir.
 Yönetici Panel kısmından istediğinz ekrana erişebilirsiniz
 İşlemler menüsünden Kredi çekmek isterseniz kredi hesaplayacısından yapabilirsiniz.
-<video src='https://drive.google.com/file/d/1AWQD7ERCVayielbHiS0qrGt4i7QLJmrl/preview'/>
+<iframe src="https://drive.google.com/file/d/1AWQD7ERCVayielbHiS0qrGt4i7QLJmrl/preview" width="640" height="480" allow="autoplay"></iframe>
 # Kullanıcılarv
 -admin / 1234
