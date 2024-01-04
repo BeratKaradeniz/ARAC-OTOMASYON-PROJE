@@ -1,1 +1,2 @@
-# AracOtomasyon
+# AracOtomasyon      
+Uygulama Kullanımı :
