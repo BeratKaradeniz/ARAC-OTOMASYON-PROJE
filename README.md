@@ -1,2 +1,2 @@
 # C# Arac Otomasyonu      
-Uygulama Kullanımı :
+# Uygulama Kullanımı :
