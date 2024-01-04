@@ -6,3 +6,6 @@ Eğer araçla ilgili bilgi değişikliği yapıcaksanız alınan araçlar menüs
 Yönetici girişi depo kısmından istediği tüm araçları görebilir.
 Yönetici Panel kısmından istediğinz ekrana erişebilirsiniz
 İşlemler menüsünden Kredi çekmek isterseniz kredi hesaplayacısından yapabilirsiniz.
+# Kullanıcılar
+behaulas@galerim.com / admin
+
